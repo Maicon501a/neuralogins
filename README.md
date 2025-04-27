@@ -1,4 +1,5 @@
 # Neuralogins
+[![GitHub](https://img.shields.io/badge/GitHub-repo-blue?logo=github)](https://github.com/Maicon501a/neuralogins)
 Biblioteca JavaScript para integrar seu projeto ao Sistema de Login Multi-Tenant.
 
 ## Instalação
@@ -7,6 +8,8 @@ Biblioteca JavaScript para integrar seu projeto ao Sistema de Login Multi-Tenant
 npm install neuralogins
 # ou
 yarn add neuralogins
+# ou direto do GitHub
+npm install git+https://github.com/Maicon501a/neuralogins.git
 ```
 
 ### Requisitos
